@@ -13,3 +13,5 @@ if conn.is_connected():
 else:
     print('bad boy')
 #1 end start connect
+
+#2 start Landenweergeven in Tkinter
